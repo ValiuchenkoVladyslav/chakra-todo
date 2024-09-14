@@ -1,9 +1,9 @@
 {
-  "addTodo": "Add todo",
-  "filter": {
-    "all": "All",
-    "done": "Done",
-    "notDone": "Not done"
-  },
-  "deleteTodo": "Delete todo"
+	"addTodo": "Add todo",
+	"filter": {
+		"all": "All",
+		"done": "Done",
+		"notDone": "Not done"
+	},
+	"deleteTodo": "Delete todo"
 }
