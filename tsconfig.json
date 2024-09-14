@@ -26,6 +26,7 @@
 			"@store/*": ["./src/store/*"],
 			"@temp/*": ["./src/temp/*"],
 			"@utils/*": ["./src/utils/*"],
+			"@stores/*": ["./src/stores/*"],
 
 			/* Imports like '@constants' */
 			"@api": ["./src/api"],
